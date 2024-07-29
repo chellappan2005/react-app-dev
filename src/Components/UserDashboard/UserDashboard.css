@@ -1,0 +1,16 @@
+/* src/UserDashboard.css */
+.dashboard {
+    padding: 20px;
+  }
+  
+  .chart-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .chart-item {
+    margin: 20px;
+    text-align: center;
+  }
+  
